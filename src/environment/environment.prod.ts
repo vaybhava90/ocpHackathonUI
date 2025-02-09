@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://api-vaybhava90-dev.apps.rm1.0a51.p1.openshiftapps.com',
+  apiUrl: 'https://banking-portal-api-vaybhava90-dev.apps.rm1.0a51.p1.openshiftapps.com',
   tokenName: "authToken",
   origin: 'http://localhost:4200' 
 };
